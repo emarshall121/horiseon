@@ -82,17 +82,6 @@ section {
     margin-left: 20px;
 }
 
-aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
 .information {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +101,18 @@ aside {
 }
 
 /* These styles apply to the content in the aside */
+
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
