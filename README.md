@@ -10,8 +10,9 @@ Some of the changes include:
     - Added comments to make code more readable
 
 Screenshots:
-https://user-images.githubusercontent.com/72776042/101932348-e1d70e00-3b97-11eb-9358-b0805a88961b.png
-https://user-images.githubusercontent.com/72776042/101932745-7d687e80-3b98-11eb-9547-981b0006bdf7.png
+(https://user-images.githubusercontent.com/72776042/101932348-e1d70e00-3b97-11eb-9358-b0805a88961b.png)
+(https://user-images.githubusercontent.com/72776042/101932745-7d687e80-3b98-11eb-9547-981b0006bdf7.png)
 
 This project can be viewed at: https://emarshall121.github.io/horiseon/
+Github repository: https://github.com/emarshall121/horiseon
 
