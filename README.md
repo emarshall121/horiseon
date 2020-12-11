@@ -9,5 +9,7 @@ Some of the changes include:
     - Consolidated CSS selectors and properties
     - Added comments to make code more readable
 
+![ScreenShot] (https://user-images.githubusercontent.com/72776042/101932348-e1d70e00-3b97-11eb-9358-b0805a88961b.png)
+
 This project can be viewed at: https://emarshall121.github.io/horiseon/
 
